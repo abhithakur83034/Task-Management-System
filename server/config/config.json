@@ -1,0 +1,10 @@
+{
+    "database":{
+        "mongodb":{
+            "local":"mongodb://localhost:27017/webS",
+            "atlas":"",
+            "cluster":""
+        }
+        
+    }
+}
